@@ -2,7 +2,7 @@
 
 Idir Abozakhar
 Luke Boyle
-Zeenat Anjun
+Zeenat Anjum
 Maryam Belkebir
 Simonbn Boudria
 
@@ -13,7 +13,7 @@ https://AerialMedicine.github.io
 GitHub Accounts for Each Team Member
 Idir Abozakhar: Nolimt-Turner
 Luke Boyle: Lukecb14
-Zeenat Anjun: zeenat-a
+Zeenat Anjum: zeenat-a
 Maryam Belkebir: mbelk059
 Simonbn Boudria: Simbou13
 

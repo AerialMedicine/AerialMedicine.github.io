@@ -4,7 +4,7 @@ Idir Abozakhar
 Luke Boyle
 Zeenat Anjum
 Maryam Belkebir
-Simonbn Boudria
+Simonn Boudria
 
 Github Organization/Respository Links
 https://github.com/AerialMedicine

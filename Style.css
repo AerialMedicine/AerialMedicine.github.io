@@ -2,11 +2,16 @@
     margin: 0;
     padding: 0;
 }
-.header{
-    min-height: 100vh;
+
+body {
+    background-image: url("images/dronedelivery.jpg");
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7),url(pictures/drone.jpg));
+    height: 100vh;
     background-position: center;
     background-size: cover;
     position: relative;
+}
+
+.text{
+    color: red;
 }

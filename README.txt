@@ -1,10 +1,10 @@
 # AerialMedicine
 
 Team Member Names:
-Idir Abozakhar,
-Luke Boyle,
-Zeenat Anjum,
-Maryam Belkebir, &
+Idir Abozakhar
+Luke Boyle
+Zeenat Anjum
+Maryam Belkebir
 Simon Boudria
 
 Description:
@@ -14,10 +14,10 @@ https://github.com/AerialMedicine
 https://AerialMedicine.github.io
 
 GitHub Accounts for Each Team Member:
-Idir Abozakhar - Nolimt-Turner /
-Luke Boyle - Lukecb14 /
-Zeenat Anjum  - zeenat-a /
-Maryam Belkebir - mbelk059 /
+Idir Abozakhar - Nolimt-Turner 
+Luke Boyle - Lukecb14 
+Zeenat Anjum  - zeenat-a 
+Maryam Belkebir - mbelk059 
 Simon Boudria - Simbou13
 
 GitHub Pages Link

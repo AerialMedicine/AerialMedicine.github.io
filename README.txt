@@ -8,6 +8,7 @@ Maryam Belkebir
 Simon Boudria
 
 Description:
+Aerial Medicine is an aerospace company that designs, produces, and offers drone delivery services. Our company connects with pharmaceutical companies and pharmacy reatilers to provide customers across North America with safe drone delivery services for their healthcare, non-narcotics, and medical packages and prescriptions.
 
 Github Organization/Respository Links
 https://github.com/AerialMedicine

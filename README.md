@@ -1,10 +1,13 @@
 # AerialMedicine
 
+Team Member Names:
 Idir Abozakhar
 Luke Boyle
 Zeenat Anjum
 Maryam Belkebir
 Simon Boudria
+
+Description:
 
 Github Organization/Respository Links
 https://github.com/AerialMedicine

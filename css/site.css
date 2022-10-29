@@ -52,7 +52,7 @@ hr.divider {
   color: #ce655e
   transition color 0.2s;
 }
-.instgram:hover { 
+.instagram:hover { 
   color: #333333; 
 }
 
@@ -203,4 +203,31 @@ form button{
   .section-head-text{
     text-align:center;
   }
+
+.Covid-19 h3{
+  padding-left:50px;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 90px
 } 
+
+.Covid-19 p{
+  font-size:20px;
+  padding-left:20px;
+}
+
+.img1 { 
+height:50%;
+width:50%; 
+}
+
+.Environment h3{
+  padding-left:50px;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 90px
+}
+
+.Technology h3{
+  padding-left:50px;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 90px
+}

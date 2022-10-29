@@ -70,8 +70,56 @@ hr.divider {
   font-family:Nunito, sans-serif;
 }
 
+.page-section {
+  padding-top: 1; 
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
 
-
+.footer{
+  margin-top: 150px;
+  width: 100%;
+  padding: 100px 15%;
+  background: #333333;
+  color: white;
+  display: flex;
+}
+.footer div{
+  text-align: center;
+  margin: 0px auto;
+}
+.col-2{
+  flex-grow: 1;
+}
+.footer div h4{
+  font-weight: 100;
+  margin-bottom: 10px;
+  letter-spacing: 1px;
+}
+form input{
+  width: 400px;
+  height: 45px;
+  border-radius: 4px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border: none;
+}
+.col-1 a{
+  display: block;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+form button{
+  background: transparent;
+  border: 2px solid #ffff;
+  color: #ffff;
+  border-radius: 30px;
+  padding: 10px 30px;
+  font-size: 15px;
+  cursor: pointer;
+}
 
 
 .TEAMS-section

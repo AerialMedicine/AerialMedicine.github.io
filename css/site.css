@@ -1,3 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
@@ -71,56 +77,69 @@ hr.divider {
 }
 
 .page-section {
-  padding-top: 1; 
+  padding-top: 0.8; 
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
 }
 
-.footer{
-  margin-top: 150px;
-  width: 100%;
-  padding: 100px 15%;
-  background: #333333;
-  color: white;
+.container{
+  max-width: 1170px;
+  margin: auto;
+}
+.row{
   display: flex;
+  flex-wrap: wrap;
 }
-.footer div{
-  text-align: center;
-  margin: 0px auto;
+ul{
+  list-style: none;
+  text-align: left;
 }
-.col-2{
-  flex-grow: 1;
+.footer{
+  background-color: #24262b;
+  padding: 70px 0;
 }
-.footer div h4{
-  font-weight: 100;
-  margin-bottom: 10px;
-  letter-spacing: 1px;
+.footer-col{
+  width: 25%;
+  padding: 0 10px;
 }
-form input{
-  width: 400px;
-  height: 45px;
-  border-radius: 4px;
-  text-align: center;
-  margin-top: 10px;
+.footer-col h4{
+  font-size: 18px;
+  color: #fff;
+  text-transform: capitalize;
   margin-bottom: 20px;
-  border: none;
+  text-align: center;
 }
-.col-1 a{
-  display: block;
-  text-decoration: none;
+.footer-col ul li:not(:last-child){
   margin-bottom: 10px;
 }
-form button{
-  background: transparent;
-  border: 2px solid #ffff;
-  color: #ffff;
-  border-radius: 30px;
-  padding: 10px 30px;
-  font-size: 15px;
-  cursor: pointer;
+.footer-col ul li a{
+  font-size: 16px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 300;
+  display: block;
+  transition: all 0.3s ease;
 }
-
+.footer-col ul li a:hover{
+  color: #fff;
+  padding-left: 8px;
+}
+.footer-col .social-links a{
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+  background-color: rgb(255, 255, 255,0.2);
+  margin-right: 0 10px 10px 0;
+  text-align: center;
+  line-height: 44px;
+  border-radius: 50%;
+  transition: all 0.5s ease;
+}
+.footer-col .social-links a:hover{
+  color: #24262b;
+  background-color: #fff;
+}
 
 .TEAMS-section
 

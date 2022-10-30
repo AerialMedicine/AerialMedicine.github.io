@@ -107,8 +107,15 @@ ul{
   font-size: 18px;
   color: #fff;
   text-transform: capitalize;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   text-align: center;
+}
+hr.divider2 {
+  height: 0.2rem;
+  max-width: 2.8rem;
+  margin: 1rem auto;
+  background-color: #ee7b30;
+  opacity: 1;
 }
 .footer-col ul li:not(:last-child){
   margin-bottom: 10px;
@@ -119,7 +126,7 @@ ul{
   text-decoration: none;
   font-weight: 300;
   display: block;
-  transition: all 0.3s ease;
+  transition: all 0.2s ease;
 }
 .footer-col ul li a:hover{
   color: #fff;
@@ -134,7 +141,7 @@ ul{
   text-align: center;
   line-height: 44px;
   border-radius: 50%;
-  transition: all 0.5s ease;
+  transition: all 0.2s ease;
 }
 .footer-col .social-links a:hover{
   color: #24262b;

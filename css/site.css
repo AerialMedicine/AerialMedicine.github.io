@@ -263,3 +263,11 @@ width:50%;
   font-family:Arial, Helvetica, sans-serif;
   font-size: 90px
 }
+
+hr.divider {
+  border-radius: 0.1rem;
+}
+
+#homepage-divider {
+  max-width: 25em;
+}

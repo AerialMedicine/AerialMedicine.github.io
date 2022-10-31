@@ -1,3 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
@@ -52,7 +58,7 @@ hr.divider {
   color: #ce655e
   transition color 0.2s;
 }
-.instgram:hover { 
+.instagram:hover { 
   color: #333333; 
 }
 
@@ -70,9 +76,78 @@ hr.divider {
   font-family:Nunito, sans-serif;
 }
 
+.page-section {
+  padding-top: 0.8; 
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
 
-
-
+.container{
+  max-width: 1170px;
+  margin: auto;
+}
+.row{
+  display: flex;
+  flex-wrap: wrap;
+}
+ul{
+  list-style: none;
+  text-align: left;
+}
+.footer{
+  background-color: #24262b;
+  padding: 70px 0;
+}
+.footer-col{
+  width: 25%;
+  padding: 0 10px;
+}
+.footer-col h4{
+  font-size: 18px;
+  color: #fff;
+  text-transform: capitalize;
+  margin-bottom: 10px;
+  text-align: center;
+}
+hr.divider2 {
+  height: 0.2rem;
+  max-width: 2.8rem;
+  margin: 0.9rem auto;
+  background-color: #ee7b30;
+  opacity: 1;
+  border-radius: 0.1rem;
+}
+.footer-col ul li:not(:last-child){
+  margin-bottom: 10px;
+}
+.footer-col ul li a{
+  font-size: 16px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 300;
+  display: block;
+  transition: all 0.2s ease;
+}
+.footer-col ul li a:hover{
+  color: #fff;
+  padding-left: 8px;
+}
+.footer-col .social-links a{
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+  background-color: rgb(255, 255, 255,0.2);
+  margin-right: 0 10px 10px 0;
+  text-align: center;
+  line-height: 44px;
+  border-radius: 50%;
+  transition: all 0.2s ease;
+}
+.footer-col .social-links a:hover{
+  color: #24262b;
+  background-color: #fff;
+}
 
 .TEAMS-section
 
@@ -155,4 +230,44 @@ hr.divider {
   .section-head-text{
     text-align:center;
   }
+}
+
+.OurMission h2{
+  font-weight: bolder;
+}
+
+.Covid-19 h3{
+  padding-left:50px;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 90px
 } 
+
+.Covid-19 p{
+  font-size:20px;
+  padding-left:20px;
+}
+
+.img1 { 
+height:50%;
+width:50%; 
+}
+
+.Environment h3{
+  padding-left:50px;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 90px
+}
+
+.Technology h3{
+  padding-left:50px;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 90px
+}
+
+hr.divider {
+  border-radius: 0.1rem;
+}
+
+#homepage-divider {
+  max-width: 25em;
+}

@@ -116,6 +116,7 @@ hr.divider2 {
   margin: 0.9rem auto;
   background-color: #ee7b30;
   opacity: 1;
+  border-radius: 0.1rem;
 }
 .footer-col ul li:not(:last-child){
   margin-bottom: 10px;
@@ -229,7 +230,7 @@ hr.divider2 {
   .section-head-text{
     text-align:center;
   }
-
+}
 
 .OurMission h2{
   font-weight: bolder;

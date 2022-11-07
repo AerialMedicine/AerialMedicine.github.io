@@ -271,3 +271,7 @@ hr.divider {
 #homepage-divider {
   max-width: 25em;
 }
+
+#drone-body {
+  background-color: #E5E5E5
+}

@@ -272,6 +272,34 @@ hr.divider {
   max-width: 25em;
 }
 
-#drone-body {
+#THEDRONE {
   background-color: #E5E5E5
+  /* background-color: black; */
+}
+
+#drone-feature-list {
+  display: grid;
+  /* max-width: 500px; */
+  grid-template-columns: 1fr 1fr;
+}
+
+.drone-list-item {
+  margin: 0px auto 0px auto;
+  /* width: 500px; */
+  padding: 0px 10px 20px 10px;
+}
+
+.drone-list-item h5{
+  text-align: center;
+}
+
+.drone-list-item img{
+  border-radius: 20px;
+  max-width: 500px;
+  display: block;
+  margin: 0px auto 0px auto;
+}
+
+.drone-list-item p {
+  padding: 0 10px;
 }

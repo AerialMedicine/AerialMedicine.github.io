@@ -272,6 +272,11 @@ hr.divider {
   max-width: 25em;
 }
 
-#drone-body {
+#THEDRONE {
   background-color: #E5E5E5
+}
+
+#drone-feature-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }

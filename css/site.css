@@ -274,9 +274,26 @@ hr.divider {
 
 #THEDRONE {
   background-color: #E5E5E5
+  /* background-color: black; */
 }
 
 #drone-feature-list {
   display: grid;
   grid-template-columns: 1fr 1fr;
+}
+
+.drone-list-item {
+  padding-bottom: 20px;
+  margin: 10px 10px 0px 0px
+}
+
+.drone-list-item h5{
+  text-align: center;
+}
+
+.drone-list-item img{
+  border-radius: 20px;
+  max-width: 300px;
+  display: block;
+  margin: 0 auto 0px auto;
 }

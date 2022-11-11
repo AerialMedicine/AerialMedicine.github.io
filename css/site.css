@@ -300,6 +300,7 @@ hr.divider {
   object-fit: scale-down;
   display: block;
   margin: 0px auto 0px auto;
+  /* filter: drop-shadow(2px 2px 10px); */
 }
 
 .drone-list-item p {

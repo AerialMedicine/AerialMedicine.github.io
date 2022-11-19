@@ -240,6 +240,24 @@ hr.divider2 {
   width: 80%;
   margin: auto;
   text-align: center;
+  background-color: #E5E5E5;
+}
+
+h3{
+  text-align: center;
+  font-weight: 600;
+  font-size: 35px;
+  margin: 10px 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000000;
+}
+
+p{
+  text-align: left;
+  font-size: 23px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000000;
+  font-weight: normal;
 }
 
 .impacts1{
@@ -257,6 +275,10 @@ hr.divider2 {
   box-sizing: border-box;
 }
 
+img.rounded-corners {
+  border-radius: 20px;
+}
+
 .Covid-19 {
   flex-basis : 31%;
   background: #EE7B30;
@@ -266,32 +288,10 @@ hr.divider2 {
   box-sizing: border-box;
 }
 
-h3{
-  text-align: center;
-  font-weight: 600;
-  margin: 10px 0;
-}
-
-p{
-  text-align: left;
-  font-size: 20px;
-}
-
 .impacts2{
   margin-top: 5%;
   display: flex;
   justify-content: space-between;
-}
-
-h3{
-  text-align: center;
-  font-weight: 600;
-  margin: 10px 0;
-}
-
-p{
-  text-align: left;
-  font-size: 20px;
 }
 
 .Environment {

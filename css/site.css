@@ -137,7 +137,7 @@ hr.divider2 {
   display: inline-block;
   height: 40px;
   width: 40px;
-  background-color: rgb(255, 255, 255,0.2);
+  background-color: rgba(255, 255, 255, 0.2);
   margin-right: 0 10px 10px 0;
   text-align: center;
   line-height: 44px;
@@ -240,7 +240,7 @@ hr.divider2 {
   width: 80%;
   margin: auto;
   text-align: center;
-  background-color: #E5E5E5;
+  background-color: #ffffff;
 }
 
 h3{
@@ -268,7 +268,7 @@ p{
 
 .Helping {
   flex-basis : 31%;
-  background: #EE7B30;
+  background: #ffffff;
   border-radius: 10px;
   margin-bottom: 0%;
   padding: 50px 37px;
@@ -281,7 +281,7 @@ img.rounded-corners {
 
 .Covid-19 {
   flex-basis : 31%;
-  background: #EE7B30;
+  background: #ffffff;
   border-radius: 10px;
   margin-bottom: 0%;
   padding: 50px 37px;
@@ -296,7 +296,7 @@ img.rounded-corners {
 
 .Environment {
   flex-basis : 31%;
-  background: #EE7B30;
+  background: #ffffff;
   border-radius: 10px;
   margin-bottom: 0%;
   padding: 50px 37px;
@@ -305,7 +305,7 @@ img.rounded-corners {
 
 .Technology {
   flex-basis : 31%;
-  background: #EE7B30;
+  background: #ffffff;
   border-radius: 10px;
   margin-bottom: 0%;
   padding: 50px 37px;

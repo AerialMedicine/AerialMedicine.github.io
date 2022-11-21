@@ -232,9 +232,31 @@ hr.divider2 {
   }
 }
 
-.OurMission h2{
-  font-weight: bolder;
+
+.about-us{
+  padding: 0px 60px;
+  margin: 60px auto;
 }
+
+.text1{
+  width: 60%;
+  float: left;
+  text-align: left;
+}
+
+.about-us img{
+  max-width: 100%;
+}
+ 
+.image-sectionl{
+ flex-basis: 50%;
+}
+ 
+.text1{
+  font-size: 20px;
+  padding-left: 20px;
+}
+
 
 .impacts{
   width: 80%;

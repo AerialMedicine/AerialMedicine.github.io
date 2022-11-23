@@ -1,0 +1,15 @@
+Aerial Medicine Style Guidlines:
+
+-> Framework: Bootstrap "Creative" one paged website template https://startbootstrap.com/themes
+-> Font: Arial
+-> Colour palette: #000000, #E5E5E5, #FFFFFF, #EE7B30, 
+-> Button types: round-edged and flat, and when the mouse goes over it they hover, they are also clickable 
+-> Contact form: with sections including; name, email (requires an @ symbol or it will not accept), phone number, and message
+-> our website is fully functional and the site will resize depending if the user is using a laptop, phone, or tablet
+-> Navigation bar: clickable, stays on screen as user scrolls down the website, the page sections turn orange as the mouse hovers over them
+-> Footer: the subections are clickable, and move to the right by a few pixels, the social media icons turn white when the mouse hovers over them
+           used 4 grids to center each section evenly
+-> Social Media Icons: imported form ionicons https://ionic.io/ionicons
+-> Hyperlinks: will be added to the social media icons and to the footer subsections to take users to a google maps of our address, 
+               our social media pages, and to their email inbox if they wish to write to us
+
